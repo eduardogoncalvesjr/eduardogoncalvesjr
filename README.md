@@ -13,8 +13,13 @@ Essas são minhas experiências. Estou sempre me aprimorando e buscando coisas n
   <img align="center" alt="eduardogj-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-
 <br/>
+
+Veja alguns de meus projetos mais recentes:
+
+https://marmota-autopecas.vercel.app/
+https://www.brunatarologa.com.br/
+
 
 <div align="center">
   <a href = "mailto:eduardogjnr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
