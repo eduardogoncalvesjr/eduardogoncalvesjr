@@ -6,6 +6,10 @@ Minha primeira formação foi como professor de inglês e tradutor. Comecei a es
 
 Essas são minhas experiências. Estou sempre me aprimorando e buscando coisas novas! 😎
 
+Tenho facilidade em trabalhar em equipe e colaborar de forma proativa e entregar ótimos resultados dentro dos prazos estabelecidos. Sou fluente em inglês (escrito e conversação) e, por ser professor há mais de 6 anos, tenho muita facilidade em comunicação.
+
+Se você está em busca de um programador que consiga se integrar facilmente a uma equipe e que está sempre disposto a aprender e ensinar, estou pronto para contribuir para o sucesso dos seus projetos.
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="eduardogj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eduardogj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
