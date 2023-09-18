@@ -26,6 +26,8 @@ Veja alguns de meus projetos mais recentes:
 https://marmota-autopecas.vercel.app/
 <br/>
 https://www.brunatarologa.com.br/
+<br/>
+https://weather-app-eduardogj.vercel.app/
 
 
 <div align="center">
