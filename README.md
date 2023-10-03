@@ -23,11 +23,11 @@ Essas são minhas experiências. Estou sempre me aprimorando e buscando coisas n
 
 Veja alguns de meus projetos mais recentes:
 
-https://marmota-autopecas.vercel.app/
+https://www.marmotaautopecas.com.br/  (REACT.JS + NODEMAILER API)
 <br/>
-https://www.brunatarologa.com.br/
+https://www.brunatarologa.com.br/   (STATIC LANDING PAGE)
 <br/>
-https://weather-app-eduardogj.vercel.app/
+https://weather-app-eduardogj.vercel.app/   (REACT.JS + OPENWEATHER API)
 
 
 <div align="center">
