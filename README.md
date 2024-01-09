@@ -20,15 +20,6 @@ Essas são minhas experiências. Estou sempre me aprimorando e buscando coisas n
 
 <br/>
 
-Veja alguns de meus projetos mais recentes:
-
-https://www.marmotaautopecas.com.br/  (REACT.JS + NODEMAILER API)
-<br/>
-https://www.brunatarologa.com.br/   (STATIC LANDING PAGE)
-<br/>
-https://weather-app-eduardogj.vercel.app/   (REACT.JS + OPENWEATHER API)
-
-
 <div align="center">
   <a href = "mailto:eduardogjnr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devedugjnr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
